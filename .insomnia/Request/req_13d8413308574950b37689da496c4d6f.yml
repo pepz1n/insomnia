@@ -1,17 +1,17 @@
-_id: req_ee58f84ebc2843ba9b9a95211ef4a874
+_id: req_13d8413308574950b37689da496c4d6f
 type: Request
-parentId: wrk_df1f713317b8438daf2591c04a77f01f
-modified: 1657400918059
-created: 1657400591427
-url: github.com
-name: New Request
+parentId: fld_6b690158e9bd4797a92be3a78fb20814
+modified: 1657401432688
+created: 1657401401421
+url: localhost:3000/alunos
+name: get alunos
 description: ""
 method: GET
 body: {}
 parameters: []
 headers: []
 authentication: {}
-metaSortKey: -1657400591427
+metaSortKey: -1657401401421
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true
